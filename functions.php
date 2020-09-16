@@ -1,4 +1,5 @@
 //Add below function to your theme/child theme's functions.php
+//We have removed some fields from billing section and the order comments
 
 /**
  Remove all possible fields
